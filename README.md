@@ -25,11 +25,11 @@ I will utilize the following coding technique to achieve the disintegration effe
 ### Explanation
 - I have chosen to implement a Gaussian random offset technique to simulate the disintegration effect. This technique involves generating random offsets for each pixel's position in the image, causing the pixels to scatter in a manner reminiscent of particles dispersing into ashes.
 - Steps to Achieve the Effect:
-1. Load the original image
-2. Extract the pixel data from the image
-3. Apply Gaussian random offsets to the pixel positions
-4. Update the image with the modified pixel positions
-5. Repeat this process over time to create an animation of the dispersal effect
+  1. Load the original image
+  2. Extract the pixel data from the image
+  3. Apply Gaussian random offsets to the pixel positions
+  4. Update the image with the modified pixel positions
+  5. Repeat this process over time to create an animation of the dispersal effect
 
 ### Explanation
 I found a helpful tutorial on [BiliBili](https://www.bilibili.com/video/BV1au411e7Rn/?spm_id_from=333.337.search-card.all.click&vd_source=3d9c66c53e876814f790d204d2a5c4e8) that demonstrates how to use Gaussian random methods to manipulate pixel positions in an image.
