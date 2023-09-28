@@ -1,38 +1,15 @@
-# xwan2722_9103_tut4
+# Week8 Quiz
 
-This is a repo that I will use to learn gitHub.
+## Part 1: Imaging Technique Inspiration
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+I plan to choose the scene from *Avengers: Infinity War* where heroes disintegrate into ashes after **Thanos** snaps his fingers as my imaging technique inspiration. 
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
-
-Unordered Lists:
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-
-Ordered Lists:
-1. First Item
-2. Second Item
-3. Third Item
-
-[Link Text](https://www.google.com)
-
+### Screenshots
+![An image of a cat](http://placekitten.com/200/300)
+![An image of a cat](http://placekitten.com/200/300)
 ![An image of a cat](http://placekitten.com/200/300)
 
-![An image of the Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-
-> This is a blockquote.
+### Explanation
+- I choose *Avengers: Infinity War* because it's my favorite superhero movie of all time, and the scene where heroes die is profoundly impactful and memorable.
+In the main assignment, I intend to modify *Saint-Georges-Majeur au crépuscule."* In the original painting, the image is split into two parts by water, and I aim to replace the water's reflection with a fragmented effect, inspired by the disintegration scene.
+- This effect conveys a sense of chaos and transformation. Incorporating this effect will add a dynamic and modern twist to the painting, making it visually engaging and thought-provoking.
