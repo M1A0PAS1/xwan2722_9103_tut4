@@ -5,9 +5,9 @@
 I plan to choose the scene from *Avengers: Infinity War* where heroes disintegrate into ashes after **Thanos** snaps his fingers as my imaging technique inspiration. 
 
 ### Screenshots
-![An image of a cat](http://placekitten.com/200/300)
-![An image of a cat](http://placekitten.com/200/300)
-![An image of a cat](http://placekitten.com/200/300)
+![An image of Falcon's Death](assets/Sam.png)
+![An image of Scarlet Witch's Death](assets/Wanda.png)
+![An image of Groot's Death](assets/Groot.png)
 
 ### Explanation
 - I choose *Avengers: Infinity War* because it's my favorite superhero movie of all time, and the scene where heroes die is profoundly impactful and memorable.
@@ -19,8 +19,8 @@ In the main assignment, I intend to modify *Saint-Georges-Majeur au crépuscule.
 I will utilize the following coding technique to achieve the disintegration effect inspired by the scene from *Avengers: Infinity War.* I will first extract the original pixel data from the image and then apply a Gaussian random method to create offsets. This process will lead to a particle-like dispersal effect, resembling the disintegration of heroes in the movie scene.
 
 ### Screenshots
-![An image of a cat](http://placekitten.com/200/300)
-![An image of a cat](http://placekitten.com/200/300)
+![An image of a Screenshot of the Tutorial](assets/tut1.png)
+![An image of a Screenshot of the Tutorial](assets/tut2.png)
 
 ### Explanation
 - I have chosen to implement a Gaussian random offset technique to simulate the disintegration effect. This technique involves generating random offsets for each pixel's position in the image, causing the pixels to scatter in a manner reminiscent of particles dispersing into ashes.
